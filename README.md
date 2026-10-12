@@ -196,17 +196,18 @@ K. Kalavala, A. Pandey, S. Priya · *2nd Congress on Intelligent Machines and Al
 
 ---
 
-### 📊 Activity
+### 📊 By the numbers
 
 <p align="center">
-  <img src="metrics.svg" alt="Profile metrics: activity, isometric contribution calendar and languages" width="100%"/>
+<img src="https://img.shields.io/badge/public_projects-31-ff7ab6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/research_areas-6-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/publication-CIMA_2026-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/largest_dataset-2B_rows-22c55e?style=for-the-badge"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxvya18/Kxvya18/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kxvya18/Kxvya18/output/github-snake.svg"/>
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Kxvya18/Kxvya18/output/github-snake.svg"/>
-</picture>
+<p align="center">
+  <img src="metrics.svg" alt="Languages and repositories" width="100%"/>
+</p>
 
 ---
 
