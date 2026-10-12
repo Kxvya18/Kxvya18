@@ -199,12 +199,7 @@ K. Kalavala, A. Pandey, S. Priya · *2nd Congress on Intelligent Machines and Al
 ### 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kxvya18&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kxvya18&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kxvya18&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+  <img src="metrics.svg" alt="Profile metrics: activity, isometric contribution calendar and languages" width="100%"/>
 </p>
 
 <picture>
