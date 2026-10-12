@@ -205,10 +205,6 @@ K. Kalavala, A. Pandey, S. Priya · *2nd Congress on Intelligent Machines and Al
 <img src="https://img.shields.io/badge/largest_dataset-2B_rows-22c55e?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="metrics.svg" alt="Languages and repositories" width="100%"/>
-</p>
-
 ---
 
 <div align="center">
